@@ -16,7 +16,7 @@
 ## TO-DO --> TITLE OF THE PROJECT HERE <--
 
 ### Introduction
-We are analysing *how much*, *when*, *where* and *how* the money destined for constructions is being spent on UFRN, possibiliting a better understanding on which sectors of the University are more developted, which ones have finished their projects, how long it takes to finish them, which companies are responsible for them, how much it costs, etc.
+We are analysing *how much*, *when*, *where* and *how* the money destined for constructions is being spent on UFRN, possibiliting a better understanding on which sectors of the University are more developted, which ones have finished their projects, how long it takes to finish them, which companies are responsible for them, how much each project costs, etc.
 
 ### Programming Language and Libraries
 For this project we are using Python 3 and for educational purposes we are using Notebook Jupyter.
