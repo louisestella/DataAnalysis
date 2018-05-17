@@ -2,7 +2,7 @@
 
 ##### This project is part of a **BTI** course called **Probabilidade** where we study Data Science.
 
-##### The original data used on our database is freely available on the school's website: [dados.ufrn.br].
+##### The original data used on our database is freely available on the school's website: [dados.ufrn.br](dados.ufrn.br).
 
 ##### In particular, we collected data from http://dados.ufrn.br/dataset/obras to practice what we have being studying on the discipline about **Exploratory Data Analysis** and **Exploratory Data Visualization**.
 
