@@ -2,7 +2,7 @@
 
 ##### This project is part of a **BTI** course called **Probabilidade** where we study Data Science.
 
-##### The original data used on our database is freely available on the school's website: dados.ufrn.br.
+##### The original data used on our database is freely available on the school's website: [dados.ufrn.br].
 
 ##### In particular, we collected data from http://dados.ufrn.br/dataset/obras to practice what we have being studying on the discipline about **Exploratory Data Analysis** and **Exploratory Data Visualization**.
 
@@ -23,8 +23,8 @@ We are analysing *how much*, *when*, and *by whom* the money destined for constr
 For this project we are using Python 3 and for educational purposes we are using Notebook Jupyter.
 We used the following libraries to aid us on creating the material displayed on the notebook:
 
-pandas -- for data manipulation and analysis.
-matplotlib -- for embedding plots into applications as visual aid
+- pandas -- for data manipulation and analysis.
+- matplotlib -- for embedding plots into applications as visual aid
 
 
 ### Project and Presentation
