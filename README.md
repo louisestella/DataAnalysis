@@ -29,4 +29,4 @@ We used the following libraries to aid us on creating the material displayed on 
 
 ### Project and Presentation
 Our presentation can be found on [Youtube](http://dados.ufrn.br/dataset/obras).
-Or you can just check out our's **Jupyter Notebook** project [here on github](https://github.com/louisestella/DataAnalysis/blob/master/real_prob_project.ipynb).
+Or you can just check out our's **Jupyter Notebook** project [here on github](https://github.com/louisestella/DataAnalysis/blob/master/obras.ipynb).
