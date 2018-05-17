@@ -16,14 +16,17 @@
 ## UFRN's Constructions and Remodelations from the Resource Fonts' of Investments
 
 ### Introduction
-We are analysing *how much*, *when*, *where* and *how* the money destined for constructions is being spent on UFRN, possibiliting a better understanding on which sectors of the University are more developted, which ones have finished their projects, how long it takes to finish them, which companies are responsible for them, how much each project costs, etc.
+We are analysing *how much*, *when*, and *by whom* the money destined for constructions and renovations is being spent on UFRN, possibiliting a better understanding of this data using graphs as visual aid, we intend to analize which ones have finished their projects, how long it takes to finish them, which companies are responsible for them, how much each project costs, who is the main source of investments, etc.
+
 
 ### Programming Language and Libraries
 For this project we are using Python 3 and for educational purposes we are using Notebook Jupyter.
-We used the following libraries to aid us on creating the material displayed on the notebook.
+We used the following libraries to aid us on creating the material displayed on the notebook:
+
+pandas -- for data manipulation and analysis.
+matplotlib -- for embedding plots into applications as visual aid
+
 
 ### Project and Presentation
-Our presentation can be found on Youtube on [Youtube](http://dados.ufrn.br/dataset/obras).
-Or you can just check out our's **Jupyter Notebook** project here on github.
-
-
+Our presentation can be found on [Youtube](http://dados.ufrn.br/dataset/obras).
+Or you can just check out our's **Jupyter Notebook** project [here on github](https://github.com/louisestella/DataAnalysis/blob/master/real_prob_project.ipynb).
